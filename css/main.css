@@ -1,0 +1,70 @@
+
+
+#wadeHeader .img-responsive{
+ 
+    background-size: cover;
+  
+}
+.container iframe{
+    position: relative;
+    top: -100px;
+}
+.section-one iframe{
+    position: relative;
+     top: -100px;
+} 
+.section-two iframe{
+    position: relative;
+     top: -0px;
+}
+.section-three iframe{
+    position: relative;
+     top: 0px;
+}
+.section-four iframe{
+    position: relative;
+     top: -170px;
+}
+.section-five iframe{
+    position: relative;
+     top: 0px;
+}
+.section-six iframe{
+    position: relative;
+     top: 0px;
+}
+.section-seven iframe{
+    position: relative;
+     top: ;
+}
+
+.section-eight iframe{
+    position: relative;
+     top: -130px;
+}
+.section-nine iframe{
+    position: relative;
+     top: -250px;
+}
+
+.section-ten iframe{
+    position: relative;
+     top: -100px;
+}
+
+.section-eleven iframe{
+    position: relative;
+     top: -170px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+
+footer {
+    background-image: url("backdrop.jpg");
+}
