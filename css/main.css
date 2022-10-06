@@ -11,7 +11,7 @@
   width: 6px;
   background-color: white;
   top: 0;
-  bottom: 0;
+  bottom: 20;
   left: 0%;
   margin-left: -3px;
 }
@@ -32,6 +32,7 @@ body {
 .container iframe{
     position: relative;
     top: -100px;
+    
 }
 .section-one iframe{
     position: relative;
@@ -91,4 +92,5 @@ body {
 
 footer {
     background-image: url("backdrop.jpg");
+    background-size: cover; 
 }
